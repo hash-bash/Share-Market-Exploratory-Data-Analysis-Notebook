@@ -1,7 +1,7 @@
 # Share Market Exploratory Data Analysis Notebook
 Jupyter Notebook for Exploratory Data Analysis on Share Market dataset using libraries Numpy, Matplotlib and Pandas.
 
-The dataset has the following features:
+### The dataset has the following features:
 
  - serial_number: Unique identifier for each variable
  - time_stamp: Date at which the data was captured
